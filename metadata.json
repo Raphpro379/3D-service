@@ -1,0 +1,6 @@
+{
+  "name": "R 3D Studio",
+  "description": "Studio de création, de génération et de publication d'applications web et 3D interactives propulsé par l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
